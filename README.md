@@ -80,8 +80,6 @@ This project features models still in learning and development phases. Further t
 5. Image drive (`https://drive.google.com/drive/folders/1cL15BKtEMu26N_ZLd6nUiKPq1gzfnQEY?usp=drive_link`)
 ---
 
-## Author
-Developed by isha | AI/ML Developer | Passionate about Retail AI, Generative AI, & MLOps
 
 ---
 
